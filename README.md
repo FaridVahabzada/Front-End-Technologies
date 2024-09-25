@@ -1,1 +1,1 @@
-### Front-end Technologies - Course Assignment 1
+### Front-end Technologies - Course Assignment
